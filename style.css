@@ -1,0 +1,40 @@
+section{
+    display: inline-block;
+    width: 250px;
+    margin-left: 10px;
+}
+img{
+    width: 100%;
+}
+header{
+    font-size:25px;
+    text-align: justify;
+    margin-bottom: 40px;
+    margin-top: 20px;
+}
+.architects{
+    margin-right: 590px;
+    margin-left: 100px;
+}
+.project,.about{
+    margin-right: 20px;
+}
+main{
+    margin:0px 40px;
+}
+h3{
+    font-size: 25px;
+    font-weight: 500;
+}
+.item{
+    margin: 10px;
+    opacity: 0.6;
+}
+p{
+    font-size: 25px;
+    text-align: justify;
+}
+contact{
+    text-align: center;
+    box-sizing: border-box;
+}
